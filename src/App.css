@@ -1,0 +1,37 @@
+.video-list-container {
+  margin: 20px;
+  padding: 10px;
+  background-color: #f0f0f0;
+  border: 1px solid #ccc;
+}
+
+.video-list {
+  list-style-type: none;
+  padding: 0;
+}
+
+.video-list-item-0 {
+  margin: 5px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  background-color: #f9f9f9;
+  cursor:pointer;
+}
+
+.video-list-item-1 {
+  margin: 5px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  background-color: #f0f0f0;
+  cursor: pointer;
+}
+
+.video-list-item-2 {
+  margin: 5px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  background-color: #e0e0e0;
+  cursor: pointer;
+}
+
+/* Add more styles for additional list items as needed */
